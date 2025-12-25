@@ -1,0 +1,23 @@
+{
+  "product_name": "GlowBoost Vitamin C Serum",
+  "faqs": {
+    "informational": [
+      "What is GlowBoost Vitamin C Serum?",
+      "What are the key ingredients?"
+    ],
+    "usage": [
+      "How should I apply this product?",
+      "When should I use it?"
+    ],
+    "safety": [
+      "Are there any side effects?",
+      "Is it suitable for my skin type?"
+    ],
+    "pricing": [
+      "What is the price of this product?"
+    ],
+    "comparison": [
+      "How does this compare to other products?"
+    ]
+  }
+}

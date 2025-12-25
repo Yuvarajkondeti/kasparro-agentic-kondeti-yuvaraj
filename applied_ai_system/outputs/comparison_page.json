@@ -1,0 +1,24 @@
+{
+  "product_a": {
+    "name": "GlowBoost Vitamin C Serum",
+    "ingredients": [
+      "Vitamin C",
+      "Hyaluronic Acid"
+    ],
+    "benefits": [
+      "Brightening",
+      "Fades dark spots"
+    ],
+    "price": 699
+  },
+  "product_b": {
+    "name": "RadiantC Serum X",
+    "ingredients": [
+      "Vitamin C"
+    ],
+    "benefits": [
+      "Brightening"
+    ],
+    "price": 799
+  }
+}
